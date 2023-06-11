@@ -1,21 +1,23 @@
-EXP 04 - CREATE A WEB-LAYOUT USING GRIDBOX
+# EXP 04 - CREATE A WEB-LAYOUT USING GRIDBOX
 
+## AIM:
 
-AIM:
 To ceate a web-layout using gridbox
 
-SOFTWARE:
+## SOFTWARE:
+
 Visual Studio Code
 
-ALGORITHM:
-Start by creating the basic HTML structure for your web page
-Create a CSS file (e.g., styles.css) and link it to your HTML file. Then, define the styles for the grid layout using the grid-template-areas, grid-template-columns, and grid-template-rows properties.
-Feel free to customize the grid layout by adjusting the grid areas, columns, and rows to match your specific design requirements. You can add more elements or modify the existing ones.
-Open the HTML file in a web browser to see the web layout created using the CSS Grid. You should have a header at the top, a sidebar on the left, content in the center, and a footer at the bottom.
-Run the program.
+## ALGORITHM:
 
+1) Start by creating the basic HTML structure for your web page
+2) Create a CSS file (e.g., styles.css) and link it to your HTML file. Then, define the styles for the grid layout using the grid-template-areas, grid-template-columns, and grid-template-rows properties.
+3) Feel free to customize the grid layout by adjusting the grid areas, columns, and rows to match your specific design requirements. You can add more elements or modify the existing ones.
+4) Open the HTML file in a web browser to see the web layout created using the CSS Grid. You should have a header at the top, a sidebar on the left, content in the center, and a footer at the bottom.
+5) Run the program.
 
-PROGRAM:
+## PROGRAM:
+```
 java
 <!doctype html>
 <title>Example</title>
@@ -59,11 +61,11 @@ header, footer, article, nav, div {
   <div id="siteAds">Ads</div>
   <footer id="pageFooter">Footer</footer>
 </body>
+```
+## OUTPUT:
 
-OUTPUT:
+<img width="1279" alt="image" src="https://github.com/Monisha-11/EXP-04---MODERN-WEB/assets/93427240/8354d19c-ea5a-420a-882b-5527b0d14d0d">
 
-![image](https://github.com/Shinysudhakar/exp-4-gridbox/assets/127575325/804c23bf-1346-4cdd-a820-02ed141b661a)
+## RESULT:
 
-
-RESULT:
 Thus the web-layout using gridbos is created.
